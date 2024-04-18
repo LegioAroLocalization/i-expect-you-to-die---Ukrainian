@@ -13,3 +13,6 @@
 
 <h3>Скріншоти:</h3>
 
+![photo_2024-04-18_21-24-39](https://github.com/LegioAroLocalization/i-expect-you-to-die---Ukrainian/assets/166553147/8b09f098-f3dc-4d2a-a7dc-b3263f735d56)
+![photo_2024-04-18_21-24-40](https://github.com/LegioAroLocalization/i-expect-you-to-die---Ukrainian/assets/166553147/9100532b-4968-4148-adb5-29b114d37750)
+![photo_2024-04-18_21-24-42](https://github.com/LegioAroLocalization/i-expect-you-to-die---Ukrainian/assets/166553147/e0303df3-8051-4689-af03-f9c7423bbfa9)
